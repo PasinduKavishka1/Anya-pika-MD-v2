@@ -29,7 +29,7 @@ global.email = "example@exmaple.com" // put your email here
 global.premium = ['94767120549']  // available soon
 global.sudo = ['94767120549']  // Co - Owners //
 
-global.prefa = ['-','🥵','🔥']
+global.prefa = ['-']
 
 //--------Random bot name for Info section--------\\
 name16 = "𓄂⍣⃝ 🇦𝚗𝚢𝚊 𓆩×͜×𓆪ꪾ️"
